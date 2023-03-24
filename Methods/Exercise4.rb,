@@ -1,0 +1,12 @@
+# What will the following code print to the screen?
+
+# def scream(words)
+#  words = words + "!!!!"
+#  return
+#  puts words
+# end
+
+# scream("Yippeee")
+
+puts "the program will not print any value, as on line 3 there is an explicit return
+which tells Ruby to exit the code and not perform any code still unprocessed"

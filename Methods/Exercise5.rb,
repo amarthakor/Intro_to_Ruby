@@ -1,0 +1,7 @@
+def scream(words)
+  words = words + "!!!!"
+  puts words
+end
+
+scream("Yippeee")
+puts "returns nil, as that is the return value of 'puts'"

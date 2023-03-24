@@ -1,0 +1,6 @@
+# greeting program via methods
+def greetings(name)
+  "Hi, " + name + ". How is your day going, today?"
+end
+
+  puts greetings("Amar")

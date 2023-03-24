@@ -1,0 +1,17 @@
+#What do the following expressions evaluate to? 
+#That is, what value does each expression return?
+
+puts "1. x = 2"
+puts "local var x will be set to the integar: 2"
+
+puts "2. puts x = 2"
+puts "this will puts the value that x is equal to (2) onto the terminal, then return nil"
+
+puts "3. p name = 'joe'"
+puts "this will set the local var (name) => jpe"
+
+puts "4. four = 'four' "
+puts "this will set the local var four => 'four'"
+
+puts "5. print something = 'nothing'"
+puts "this will return a nil value, but print 'nothing' onto the terminal"
